@@ -2,7 +2,8 @@
 Notes for class
 
 
-[Website]
+[Website]https://isabelacifuentes.github.io/Math-Data-2024/ 
+
 <img src="https://campusvisitorguides.com/fau/wp-content/uploads/sites/27/2020/06/fau-campussign-1200x800.jpg">
 
 
